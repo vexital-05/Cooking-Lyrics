@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.mainTable{background-color:white;}
+.innerTable{background-color:white;}
+.quantity{line-height:19px;display:inline-block;font-family:Century Gothic, sans-serif;font-size:15px;font-weight:700;line-height:18.6px;vertical-align:top}
+.ingredient-name{font-family: Century Gothic, sans-serif;}
+.recipe-title{font-family: Century Gothic, sans-serif;}
+.recipebyline{font-family: Century Gothic, sans-serif;font-size:1.0rem;font-weight:700;line-height:18px;margin-bottom:5px}
+
+.recipe-yield-time-label{color:#000;display:block;font-family: Century Gothic, sans-serif;font-size:1.0rem;font-weight:700;text-transform:uppercase;}
+.topnote{font-family: Century Gothic, sans-serif;font-size:1.2rem;}
+.recipe-instructions-heading{background-color:#DECECB;font-family:Century Gothic, sans-serif;font-size:1.08em;font-weight:400;letter-spacing:1px;margin:0 -12px 33px -12px;padding:23px;text-align:center;text-transform:uppercase;-webkit-font-smoothing:antialiased}
+.recipe-steps{font-family: Century Gothic, sans-serif;}
+
+
+a:link, a:visited {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Century Gothic, sans-serif;font-size:1.2rem;
+  }
+  
+  a:hover, a:active {
+    background-color:rgb(193, 170, 202);
+    font-family: Century Gothic, sans-serif;font-size:1.2rem;
+  }
