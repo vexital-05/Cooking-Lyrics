@@ -18,7 +18,7 @@
     border-radius: 7px;
     visibility: hidden;
     opacity: 0;
-    transition: opacity 0.5s ease;
+    transition: opacity 1.25s ease;
 }
 #tooltipText::before {
     content: "";
