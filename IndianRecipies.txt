@@ -1,25 +1,25 @@
-1)MAHARASTRIAN Food
-    pav bhaji - pav bhaji is a fast food dish from the indian state of maharashtra. it is a vegetable-based curry served with a soft bread roll called pav. it is a fast food dish from the indian state of maharashtra. it is a vegetable-based curry served with a soft bread roll called pav. - https://hebbarskitchen.com/easy-mumbai-style-pav-bhaji-recipe/
-    pithla Bhkari - pithla bhakri is a traditional maharashtrian dish made with rice flour and jaggery. it is a traditional maharashtrian dish made with rice flour and jaggery. - https://recipes.timesofindia.com/recipes/pithla-bhakri/rs59788283.cms
-    vada pav - vada pav is a fast food dish from the indian state of maharashtra. it is a fast food dish from the indian state of maharashtra. - https://hebbarskitchen.com/vada-pav-recipe-vada-pav-mumbai-style/
-    modak - modak is a sweet dumpling made from rice flour and stuffed with coconut and jaggery. it is a sweet dumpling made from rice flour and stuffed with coconut and jaggery. - https://hebbarskitchen.com/modak-recipe-modak-recipe-in-hindi/
-2)south indian food
-    idli - idli is a type of savoury rice cake, originating from the indian subcontinent, popular as breakfast foods in southern india. it is a type of savoury rice cake, originating from the indian subcontinent, popular as breakfast foods in southern india. - 
-    dosa sambar - dosa is a type of pancake from the indian subcontinent, made from a fermented batter. it is a type of pancake from the indian subcontinent, made from a fermented batter.
-    rassam - rassam is a soup or stew originating from the indian subcontinent. it is a soup or stew originating from the indian subcontinent.
-    chiroti - chiroti is a traditional south indian snack made from rice flour. it is a traditional south indian snack made from rice flour.
-3)north indian food
-    butter chicken - butter chicken is a chicken dish originating from the indian subcontinent. it is a chicken dish originating from the indian subcontinent.
-    chole bhature - chole bhature is a north indian dish consisting of chole and bhatura. it is a north indian dish consisting of chole and bhatura.
-    lacha paratha -     lacha paratha is a type of unleavened flatbread from the indian subcontinent. it is a type of unleavened flatbread from the indian subcontinent.
-    gulab jamun - gulab jamun is a milk-solid-based sweet from the indian subcontinent. it is a milk-solid-based sweet from the indian subcontinent.
-4)punjabi food
-    chana masala - chana masala is a dish of chickpeas in a spiced sauce. it is a dish of chickpeas in a spiced sauce.
-    lacha paratha - lacha paratha is a type of unleavened flatbread from the indian subcontinent. it is a type of unleavened flatbread from the indian subcontinent.
-    chicken tikka - chicken tikka is a dish of chunks of chicken marinated in yogurt and spices and then broiled or grilled. it is a dish of chunks of chicken marinated in yogurt and spices and then broiled or grilled.
-    kala jamun - kala jamun is a type of jamun, a milk-solid-based sweet from the indian subcontinent. it is a type of jamun, a milk-solid-based sweet from the indian subcontinent.
-5)rajasthani food
-    dal bati churma - dal bati churma is a rajasthani dish consisting of dal, bati and churma. it is a rajasthani dish consisting of dal, bati and churma.
-    gatte ki sabji - gatte ki sabji is a rajasthani dish consisting of gatte and sabji. it is a rajasthani dish consisting of gatte and sabji.
-    ghevar - ghevar is a type of dessert originating from the indian subcontinent. it is a type of dessert originating from the indian subcontinent.
-    kabuli - kabuli is a type of dessert originating from the indian subcontinent. it is a type of dessert originating from the indian subcontinent.
+1)	Maharashtrian food
+    Pav Bhaji - Pav Bhaji is a fast-food dish from the Indian state of Maharashtra. It is a vegetable-based curry served with a soft bread roll called pav. It is a fast-food dish from the Indian state of Maharashtra. - https://hebbarskitchen.com/easy-mumbai-style-pav-bhaji-recipe/
+    Pithla Bhakari - Pithla Bhakri is a traditional Maharashtrian dish made with rice flour and jaggery. - https://recipes.timesofindia.com/recipes/pithla-bhakri/rs59788283.cms
+    Vada Pav - Vada Pav is a fast-food dish from the Indian state of Maharashtra. - https://hebbarskitchen.com/vada-pav-recipe-vada-pav-mumbai-style/
+    Modak - Modak is a sweet dumpling made from rice flour and stuffed with coconut and jaggery. - https://hebbarskitchen.com/modak-recipe-modak-recipe-in-hindi/
+2)	South Indian food
+    Idli - Idli is a type of savory rice cake, originating from the Indian subcontinent, popular as breakfast foods in southern India. 
+    Dosa Sambar - Dosa is a type of pancake from the Indian subcontinent, made from a fermented batter.
+    Rassam - Rassam is a soup or stew originating from the Indian subcontinent.
+    Chiroti - Chiroti is a traditional south Indian snack made from rice flour.
+3)	North Indian food
+    Butter Chicken - Butter Chicken is a chicken dish originating from the Indian subcontinent.
+    Chole Bhature - Chole Bhature is a north Indian dish consisting of chole and bhatura.
+    Laccha Paratha - Laccha Paratha is a type of unleavened flatbread from the Indian subcontinent.
+    Gulab Jamun - Gulab Jamun is a milk-solid-based sweet from the Indian subcontinent.
+4)	Punjabi food
+    Chana Masala - Chana Masala is a dish of chickpeas in a spiced sauce. 
+    Amritsari Kulcha - Amritsari Kulcha is a type of bread from the Indian subcontinent. 
+    Chicken Tikka - Chicken Tikka is a dish of chunks of chicken marinated in yogurt and spices and then broiled or grilled.
+    Kala Jamun - Kala Jamun is a type of jamun, a milk-solid-based sweet from the Indian subcontinent. Rajasthani food
+5)	Rajasthani Food
+    Dal Bati Churma - Dal Bati Churma is a Rajasthani dish consisting of dal, bati and churma.
+    Gatte ki Sabji - Gatte ki Sabji is a Rajasthani dish consisting of gatte and sabji. 
+    Ghevar - Ghevar is a type of dessert originating from the Indian subcontinent. 
+    Kabuli - Kabuli is a type of dessert originating from the Indian subcontinent. It is a type of dessert originating from the Indian subcontinent.
