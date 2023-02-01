@@ -1,6 +1,6 @@
  #tooltip {
     position: relative;
-    cursor: pointer;
+    cursor: auto;
     padding: 7px;
     font-size: 15px;
     font-weight: bold;
